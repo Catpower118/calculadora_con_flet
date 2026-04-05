@@ -1,0 +1,9 @@
+
+{
+  "assets": [
+    "assets"
+  ],
+  "app": {
+    "icon": "assets/imagen_cal.ico"
+  }
+}
