@@ -25,6 +25,7 @@ una calculadora sencilla desarrollada en **python + flet**, soporte para:
 ## Instalacio 
 
 clona este repositorio
+https://github.com/Catpower118/calculadora_con_flet
 
 ## Tecnologias usadas
 
